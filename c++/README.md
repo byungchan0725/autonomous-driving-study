@@ -3,5 +3,5 @@
 
 <br>
 
-### C++ 스터디 기록 
-
+### C++ 스터디 기록  
+2024.1.24(수) 58 ~ 100p [1.1.16 Vector까지](https://byungchan0725.notion.site/1-1-C-5646029433654bbbbd802c07fa3acb68)
